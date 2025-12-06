@@ -1,6 +1,13 @@
 # Ubuntu FAT
 
 - Base image: ubuntu:24.04 (docker.io)
+- Release image: sunwoo2539/ubuntu:24.04-fat (docker.io)
+
+## Use
+
+```bash
+docker image pull sunwoo2539/ubuntu:24.04-fat
+```
 
 ## About
 - Default user for `docker start -ai <container-name>` as `ubuntu`
