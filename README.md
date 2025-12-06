@@ -16,6 +16,7 @@ docker image pull sunwoo2539/ubuntu:24.04-fat
 
 ## Preinstalled Packages
 - git
+- man-db
 - gh (github cli)
 - build-essential
 - pkg-config
