@@ -1,7 +1,8 @@
 # Ubuntu FAT
+A general container image to **keep host clean** and **container environment setup instant**
 
-- Base image: ubuntu:24.04 (docker.io)
-- Release image: sunwoo2539/ubuntu:24.04-fat (docker.io)
+- Base image: `ubuntu:24.04` (docker.io)
+- Release image: [`sunwoo2539/ubuntu:24.04-fat`](https://hub.docker.com/repository/docker/sunwoo2539/ubuntu/tags/24.04-fat) (docker.io)
 
 ## Use
 
